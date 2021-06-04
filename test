@@ -1,4 +1,4 @@
-def hoge():
-    print("hoge")
+def hoge(message):
+    print(message)
 
-hoge()
+hoge("nyan")
