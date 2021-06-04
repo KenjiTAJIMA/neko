@@ -2,3 +2,4 @@ def hoge(message):
     print(message)
 
 hoge("meow")
+hoge("meow")
